@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2021-09-23T21:47:25.337Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52" etag="zodEM4qkvuekMvXWWwlT" version="15.3.0" type="github"><diagram id="L-WYnWYy-e6hlGnkDfw3" name="Page-1">7Zhdc5s4FIZ/jS9hkIRAXCZp3e3OdtJZd6fXCsigBpBXCH/sr98jIwz4I20324zbyY0NL0df7yPpIGbkrtq+03xVfFCZKGc4yLYz8maGMYoDAn9W2XVKjJ2Qa5m5oEFYyH+EEwOntjITzSTQKFUauZqKqaprkZqJxrVWm2nYUpXTVlc8FyfCIuXlqfpZZqboVEaDQf9NyLzoW0aBe1LxPtgJTcEztRlJ5O2M3GmlTHdVbe9Eac3rfenKzS88PXRMi9qcKfBXI/T9wxfrCQ5K/gBc9kEzTGteCfjrKqgB2ftpnfvne2FhuGkbkPrWSp6KAjwUeupr36u0WctqpbTx0GGIh643ZtfbCmas7KWG/vE6t/KtVm2dCVsRgrvGaPUo7lSp9L4ICYIlyF1za6GN2F40Ytz2O6EqYfQOQlyBMHJE3JREh8m2GQj3McUIbk+Su7Hnh6oH2+HCjbe/HYH4z2DwRTD4u8Hg6wUz5ZKE146FXMRCvhsLuVos+Gi5hC/K5WTjw+LTrdnVf6S/b+8/5OvqT3a/8ChzA+Vl6yy73XVpAQZukVaibt1GPNiatnp9cHAJsS4BIXsv6uzGZhC4fyhV+vipkHUnz6Xt8BvnpMhOUsiRtdCmanUqjpn3CY3rXJin1ukIihYlN3I9bfGcxfuiMAC+GwWslKxNM6r5oxVGrHHkJziEpcgiFtEAhVP2kNB9+GFhTEkcUUqOYHbtDWgPHT9H+xvRJufR8tYoSLKADxzXKhVN88r3q3wZmgIFzj8eYb87HCO8+fjerlFua3gl9zQ5QqgfxDSmCSKIhInjNoAMkM8YRhTebzAJw5fAin7NlUmeyfdCcvtGU/HPmMnw9fpJfra9hzzl5YVXtR+cNcLYZyTGLKEEMgjt5+jhAJUgP2IsxjELUBKwF9h6wvNUK1633JauVCaXMgVTVP0K+KuAk9BHEY5REEYxYiGhU8CEBT5BCMcYJSxIUPwcwpdOWoUx9qPOja0YzxvD00cFB5dlqTZ+qirQ/m5FY4HCSOY0iinFdibOC7XxjPJysMdrawlRXilr4dlzWeMtlfYyzTeeVF4mea555eWiFtpmKPu08sD9brxQ7PFqOvP0AqAjmqfnxX2qILebQhqxWPH9HNxovgKtMFU5nvquUJ/Ln3NSjMjRCf7MhxVKzxwVw//lqAjS8Dmtm4fDR0ny9l8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-23T21:48:37.644Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 Edg/93.0.961.52" etag="-asKv1BOJOEvUbKiEAjx" version="15.3.0" type="github">
+  <diagram id="L-WYnWYy-e6hlGnkDfw3" name="Page-1">
+    <mxGraphModel dx="1022" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="%name%" nodeId="1" name="Status 1" placeholders="1" id="csvimport-1">
+          <mxCell style="shape=rectangle;rounded=1;strokeColor=#00f;" parent="1" vertex="1">
+            <mxGeometry x="460" y="1210" width="60" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" nodeId="2" name="Status 2" placeholders="1" id="csvimport-2">
+          <mxCell style="shape=rectangle;rounded=1;strokeColor=#00f;" parent="1" vertex="1">
+            <mxGeometry x="40" y="940" width="60" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" nodeId="3" name="Status 3" placeholders="1" id="csvimport-3">
+          <mxCell style="shape=rectangle;rounded=1;strokeColor=#00f;" parent="1" vertex="1">
+            <mxGeometry x="20" y="1440" width="60" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="2eTBtynLcJxOMgvmR8OS-58" value="By context menu" style="curved=1;fontSize=11;endArrow=blockThin;endFill=1" parent="1" source="csvimport-1" target="csvimport-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="226.92424086865014" y="1170.1178475376553" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2eTBtynLcJxOMgvmR8OS-59" value="By automated process" style="curved=1;fontSize=11;endArrow=blockThin;endFill=1" parent="1" source="csvimport-1" target="csvimport-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="281" y="1086" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2eTBtynLcJxOMgvmR8OS-60" value="By API call" style="curved=1;fontSize=11;endArrow=blockThin;endFill=1" parent="1" source="csvimport-1" target="csvimport-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="335.07575913134986" y="1001.8821524623446" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2eTBtynLcJxOMgvmR8OS-61" value="By automated process" style="curved=1;fontSize=11;endArrow=blockThin;endFill=1" parent="1" source="csvimport-1" target="csvimport-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2eTBtynLcJxOMgvmR8OS-62" value="By context menu" style="curved=1;fontSize=11;endArrow=blockThin;endFill=1" parent="1" source="csvimport-2" target="csvimport-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2eTBtynLcJxOMgvmR8OS-63" value="By API call" style="curved=1;fontSize=11;endArrow=blockThin;endFill=1" parent="1" source="csvimport-3" target="csvimport-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="247.83728953281562" y="1291.688727801908" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2eTBtynLcJxOMgvmR8OS-64" value="By manual modification" style="curved=1;fontSize=11;endArrow=blockThin;endFill=1" parent="1" source="csvimport-3" target="csvimport-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="294.16271046718435" y="1380.3112721980917" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="https://stackoverflow.com/questions/56755262/how-to-give-unique-line-names-for-draw-io-diagram-generated-form-csv" link="https://stackoverflow.com/questions/56755262/how-to-give-unique-line-names-for-draw-io-diagram-generated-form-csv" id="2eTBtynLcJxOMgvmR8OS-65">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+            <mxGeometry x="550" y="930" width="550" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Arrange -&amp;gt; Insert -&amp;gt; Advanced -&amp;gt; CSV" link="https://stackoverflow.com/questions/56755262/how-to-give-unique-line-names-for-draw-io-diagram-generated-form-csv" id="6Zs3CjaZyhAeusNN6SKL-1">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="550" y="1000" width="550" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
